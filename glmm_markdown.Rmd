@@ -1,0 +1,32 @@
+---
+title: "Mixed Models Assignment"
+author: "Leah N. Crowley"
+date: "2023-09-26"
+output:
+  html_document:
+    toc: true
+    toc_float: true
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+
+# Call packages requried for assignment: 
+  library(ggplot2)
+  library(dplyr)
+  library(arm)
+  library(MASS)
+  library(ggfortify)
+  library(nlme)
+  library(lme4)
+  library(lmerTest)
+  library(emmeans)
+  library(ggtext)
+  library(patchwork)
+
+```
+
+```{r data, include=FALSE}
+
+```
+
